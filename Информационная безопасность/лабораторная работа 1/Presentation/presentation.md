@@ -3,10 +3,9 @@
 lang: ru-RU
 title: Лабораторная работа №1
 author: |
-	Конева Анастасич
+	Конева Анастасия
 institute: |
 	 RUDN University, Moscow, Russian Federation
-date: Сентябрь, 2021 Москва
 
 ## Formatting
 toc: false
